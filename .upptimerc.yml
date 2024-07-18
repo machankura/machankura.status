@@ -3,7 +3,7 @@ owner: machankura # Your GitHub organization or username, where this repository 
 repo: machankura.status # The name of this repository
 
 sites:
-  - name: Machankura web page
+  - name: Machankura Home Page
     url: $MACHANKURA_WEB_PAGE_HTTP_URL
   - name: Machankura USSD Service
     url: $MACHANKURA_USSD_SERVICE_HTTP_ENDPOINT
@@ -32,7 +32,7 @@ status-website:
   logoUrl: $MACHANKURA_LOGO_URL
   name: Machankura Status Page
   introTitle: "Status page for Machankura services."
-  introMessage: This is a sample status page which tracks **Machankura** services. [**Create a Machankura account**](https://8333.mobi)
+  introMessage: This is a status page that tracks **Machankura** services. [**Create a Machankura account**](https://8333.mobi)
   navbar:
     - title: Status
       href: /
