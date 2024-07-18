@@ -1,20 +1,20 @@
 [
   {
-    "name": "Machankura web page",
+    "name": "Machankura Home Page",
     "url": "$MACHANKURA_WEB_PAGE_HTTP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "machankura-web-page",
+    "slug": "machankura-home-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1793,
-    "timeDay": 1793,
-    "timeWeek": 1793,
-    "timeMonth": 1793,
-    "timeYear": 1793,
+    "time": 1550,
+    "timeDay": 1550,
+    "timeWeek": 1550,
+    "timeMonth": 1550,
+    "timeYear": 1550,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 782,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 230,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1508,
-    "timeDay": 1508,
-    "timeWeek": 1508,
-    "timeMonth": 1508,
-    "timeYear": 1508,
+    "time": 1527,
+    "timeDay": 1527,
+    "timeWeek": 1527,
+    "timeMonth": 1527,
+    "timeYear": 1527,
     "dailyMinutesDown": {}
   }
 ]
