@@ -4,19 +4,19 @@
     "url": "$MACHANKURA_WEB_PAGE_HTTP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1894,
-    "timeDay": 1890,
-    "timeWeek": 1894,
-    "timeMonth": 1894,
-    "timeYear": 1894,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 1893,
+    "timeDay": 1891,
+    "timeWeek": 1893,
+    "timeMonth": 1893,
+    "timeYear": 1893,
     "dailyMinutesDown": {
-      "2024-07-22": 0
+      "2024-07-22": 29
     }
   },
   {
