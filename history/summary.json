@@ -60,17 +60,19 @@
     "url": "$MACHANKURA_WEB_SERVICE_HTTP_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1662,
-    "timeDay": 1769,
-    "timeWeek": 1712,
-    "timeMonth": 1662,
-    "timeYear": 1662,
-    "dailyMinutesDown": {}
+    "time": 1904,
+    "timeDay": 3778,
+    "timeWeek": 2222,
+    "timeMonth": 1904,
+    "timeYear": 1904,
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   }
 ]
