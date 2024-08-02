@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-home-page",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 2006,
-    "timeDay": 2026,
-    "timeWeek": 2150,
-    "timeMonth": 2006,
-    "timeYear": 2006,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1987,
+    "timeDay": 1675,
+    "timeWeek": 2115,
+    "timeMonth": 1987,
+    "timeYear": 1987,
     "dailyMinutesDown": {
       "2024-07-22": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 789,
-    "timeWeek": 840,
-    "timeMonth": 827,
-    "timeYear": 827,
+    "time": 818,
+    "timeDay": 669,
+    "timeWeek": 821,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 230,
-    "timeWeek": 248,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 238,
+    "timeDay": 209,
+    "timeWeek": 245,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-web-service",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1890,
-    "timeDay": 3065,
-    "timeWeek": 2157,
-    "timeMonth": 1890,
-    "timeYear": 1890,
-    "dailyMinutesDown": {
-      "2024-08-01": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1868,
+    "timeDay": 2966,
+    "timeWeek": 2151,
+    "timeMonth": 1868,
+    "timeYear": 1868,
+    "dailyMinutesDown": {}
   }
 ]
