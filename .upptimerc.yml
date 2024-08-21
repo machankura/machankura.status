@@ -23,6 +23,14 @@ sites:
       - 200
       - 201
       - 404
+  - name: Lightning Node Y
+    check: "tcp-ping"
+    url: $NODE_Y
+    port: $NODE_PORT
+  - name: Lightning Node Z
+    check: "tcp-ping"
+    url: $NODE_Z
+    port: $NODE_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
