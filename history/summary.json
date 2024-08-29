@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1988,
-    "timeDay": 1702,
-    "timeWeek": 1865,
-    "timeMonth": 1989,
-    "timeYear": 1988,
+    "time": 1984,
+    "timeDay": 1769,
+    "timeWeek": 1822,
+    "timeMonth": 1986,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2024-07-22": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 728,
-    "timeWeek": 803,
-    "timeMonth": 812,
-    "timeYear": 818,
+    "time": 816,
+    "timeDay": 750,
+    "timeWeek": 789,
+    "timeMonth": 813,
+    "timeYear": 816,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 211,
-    "timeWeek": 233,
+    "time": 236,
+    "timeDay": 210,
+    "timeWeek": 230,
     "timeMonth": 235,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1722,
-    "timeDay": 1527,
-    "timeWeek": 1609,
-    "timeMonth": 1748,
-    "timeYear": 1722,
+    "time": 1717,
+    "timeDay": 1496,
+    "timeWeek": 1574,
+    "timeMonth": 1751,
+    "timeYear": 1717,
     "dailyMinutesDown": {}
   },
   {
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lightning-node-y",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 231,
-    "timeDay": 209,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 229,
+    "timeDay": 210,
+    "timeWeek": 228,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2024-08-22": 72
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
+    "time": 230,
     "timeDay": 210,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "timeWeek": 229,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
