@@ -49,7 +49,7 @@ status-website:
 
   user-agent: ceboMakeleni
 
-  theme: night
+  theme: ocean
   favicon: https://8333.mobi/static/img/logo.svg
   faviconSvg: https://8333.mobi/static/img/logo.svg
 
