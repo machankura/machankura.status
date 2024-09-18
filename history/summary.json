@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1971,
-    "timeDay": 2332,
-    "timeWeek": 1975,
-    "timeMonth": 1942,
-    "timeYear": 1971,
+    "time": 1975,
+    "timeDay": 2208,
+    "timeWeek": 2056,
+    "timeMonth": 1939,
+    "timeYear": 1975,
     "dailyMinutesDown": {
       "2024-07-22": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
-    "time": 814,
-    "timeDay": 989,
-    "timeWeek": 835,
-    "timeMonth": 813,
-    "timeYear": 814,
+    "time": 816,
+    "timeDay": 928,
+    "timeWeek": 862,
+    "timeMonth": 811,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-09-06": 47
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-whatsapp-service",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.10%",
-    "uptimeYear": "98.03%",
-    "time": 238,
-    "timeDay": 279,
-    "timeWeek": 244,
+    "uptimeYear": "98.07%",
+    "time": 239,
+    "timeDay": 278,
+    "timeWeek": 254,
     "timeMonth": 240,
-    "timeYear": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2024-09-07": 1057,
       "2024-09-06": 650
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1696,
-    "timeDay": 1720,
-    "timeWeek": 1619,
-    "timeMonth": 1637,
-    "timeYear": 1696,
+    "time": 1697,
+    "timeDay": 1754,
+    "timeWeek": 1662,
+    "timeMonth": 1635,
+    "timeYear": 1697,
     "dailyMinutesDown": {}
   },
   {
@@ -84,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lightning-node-y",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 235,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 237,
     "timeDay": 277,
-    "timeWeek": 244,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "timeWeek": 253,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-08-22": 72
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
+    "time": 237,
     "timeDay": 276,
-    "timeWeek": 243,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "timeWeek": 253,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   }
 ]
