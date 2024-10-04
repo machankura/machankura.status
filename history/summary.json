@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1956,
-    "timeDay": 1839,
-    "timeWeek": 1873,
-    "timeMonth": 1948,
+    "timeDay": 1985,
+    "timeWeek": 1919,
+    "timeMonth": 1960,
     "timeYear": 1956,
     "dailyMinutesDown": {
       "2024-07-22": 29
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 808,
-    "timeDay": 740,
-    "timeWeek": 754,
-    "timeMonth": 802,
+    "timeDay": 775,
+    "timeWeek": 765,
+    "timeMonth": 803,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2024-09-06": 47
@@ -45,14 +45,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-whatsapp-service",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.10%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.47%",
     "time": 237,
-    "timeDay": 213,
-    "timeWeek": 223,
+    "timeDay": 235,
+    "timeWeek": 226,
     "timeMonth": 239,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1404,
-    "timeWeek": 1540,
-    "timeMonth": 1631,
-    "timeYear": 1680,
+    "time": 1678,
+    "timeDay": 1532,
+    "timeWeek": 1553,
+    "timeMonth": 1635,
+    "timeYear": 1678,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 233,
-    "timeDay": 209,
-    "timeWeek": 220,
-    "timeMonth": 236,
+    "timeDay": 232,
+    "timeWeek": 223,
+    "timeMonth": 237,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2024-08-22": 72
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 209,
-    "timeWeek": 221,
-    "timeMonth": 236,
+    "timeDay": 230,
+    "timeWeek": 223,
+    "timeMonth": 237,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
