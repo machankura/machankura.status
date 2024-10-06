@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1959,
-    "timeDay": 2189,
-    "timeWeek": 1966,
-    "timeMonth": 1961,
-    "timeYear": 1959,
+    "time": 1962,
+    "timeDay": 2247,
+    "timeWeek": 2001,
+    "timeMonth": 1958,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2024-07-22": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 809,
-    "timeDay": 917,
-    "timeWeek": 796,
-    "timeMonth": 801,
-    "timeYear": 809,
+    "time": 808,
+    "timeDay": 745,
+    "timeWeek": 792,
+    "timeMonth": 798,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2024-09-06": 47
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-whatsapp-service",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.10%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 237,
-    "timeDay": 291,
-    "timeWeek": 237,
-    "timeMonth": 240,
+    "timeDay": 215,
+    "timeWeek": 234,
+    "timeMonth": 238,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-09-07": 1057,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1854,
-    "timeWeek": 1615,
-    "timeMonth": 1637,
-    "timeYear": 1680,
+    "time": 1677,
+    "timeDay": 1462,
+    "timeWeek": 1583,
+    "timeMonth": 1625,
+    "timeYear": 1677,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 234,
-    "timeDay": 277,
-    "timeWeek": 233,
-    "timeMonth": 237,
+    "timeDay": 213,
+    "timeWeek": 230,
+    "timeMonth": 235,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-08-22": 72
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 276,
-    "timeWeek": 233,
-    "timeMonth": 237,
+    "timeDay": 212,
+    "timeWeek": 230,
+    "timeMonth": 235,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
