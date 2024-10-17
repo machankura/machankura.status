@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1958,
-    "timeDay": 2018,
-    "timeWeek": 1895,
-    "timeMonth": 1942,
-    "timeYear": 1958,
+    "time": 1959,
+    "timeDay": 1994,
+    "timeWeek": 1951,
+    "timeMonth": 1931,
+    "timeYear": 1959,
     "dailyMinutesDown": {
       "2024-07-22": 29
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 809,
-    "timeDay": 776,
-    "timeWeek": 803,
-    "timeMonth": 802,
+    "timeDay": 875,
+    "timeWeek": 832,
+    "timeMonth": 798,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2024-09-06": 47
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-whatsapp-service",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.69%",
     "time": 238,
-    "timeDay": 235,
-    "timeWeek": 237,
-    "timeMonth": 238,
+    "timeDay": 230,
+    "timeWeek": 240,
+    "timeMonth": 237,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-09-07": 1057,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1677,
-    "timeDay": 1724,
-    "timeWeek": 1659,
-    "timeMonth": 1635,
-    "timeYear": 1677,
+    "time": 1676,
+    "timeDay": 1594,
+    "timeWeek": 1691,
+    "timeMonth": 1631,
+    "timeYear": 1676,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 235,
-    "timeDay": 230,
-    "timeWeek": 235,
-    "timeMonth": 236,
+    "timeDay": 231,
+    "timeWeek": 238,
+    "timeMonth": 234,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-08-22": 72
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 231,
-    "timeWeek": 235,
-    "timeMonth": 236,
+    "timeDay": 230,
+    "timeWeek": 238,
+    "timeMonth": 234,
     "timeYear": 235,
     "dailyMinutesDown": {}
   }
