@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-whatsapp-service",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 239,
     "timeDay": 274,
     "timeWeek": 250,
@@ -85,9 +85,9 @@
     "url": "$NODE_Y",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lightning-node-y",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -97,6 +97,7 @@
     "timeMonth": 237,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2024-11-01": 0,
       "2024-08-22": 72
     }
   },
