@@ -108,9 +108,9 @@
     "url": "$NODE_Z",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lightning-node-z",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.74%",
@@ -120,6 +120,7 @@
     "timeMonth": 233,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-10-28": 199,
       "2024-10-17": 161
     }
