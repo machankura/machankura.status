@@ -4,10 +4,10 @@
     "url": "$MACHANKURA_WEB_PAGE_HTTP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 1939,
@@ -16,7 +16,7 @@
     "timeMonth": 1890,
     "timeYear": 1939,
     "dailyMinutesDown": {
-      "2025-03-08": 44,
+      "2025-03-08": 46,
       "2024-07-22": 29
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-ussd-service",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.94%",
     "time": 803,
     "timeDay": 752,
     "timeWeek": 763,
     "timeMonth": 790,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-03-08": 33,
+      "2025-03-08": 47,
       "2024-11-13": 63,
       "2024-10-30": 30,
       "2024-09-06": 47
@@ -50,9 +50,9 @@
     "slug": "machankura-whatsapp-service",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.45%",
     "time": 236,
     "timeDay": 208,
@@ -60,7 +60,7 @@
     "timeMonth": 230,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-08": 33,
+      "2025-03-08": 47,
       "2024-11-13": 63,
       "2024-10-30": 30,
       "2024-09-07": 1057,
@@ -72,9 +72,9 @@
     "url": "$MACHANKURA_WEB_SERVICE_HTTP_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "machankura-web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +83,9 @@
     "timeWeek": 1523,
     "timeMonth": 1594,
     "timeYear": 1639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-08": 0
+    }
   },
   {
     "name": "Lightning Node Y",
