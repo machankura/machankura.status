@@ -1,7 +1,7 @@
 url: $MACHANKURA_WEB_PAGE_HTTP_URL
-status: down
-code: 502
-responseTime: 1508
-lastUpdated: 2025-05-04T18:32:32.551Z
+status: up
+code: 200
+responseTime: 1848
+lastUpdated: 2025-05-04T18:49:35.668Z
 startTime: 2024-07-18T20:29:23.461Z
 generator: Upptime <https://github.com/upptime/upptime>
