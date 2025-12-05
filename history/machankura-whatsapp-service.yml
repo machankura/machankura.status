@@ -1,7 +1,7 @@
 url: $MACHANKURA_WHATSAPP_SERVICE_HTTP_ENDPOINT
-status: down
-code: 502
-responseTime: 270
-lastUpdated: 2025-12-05T08:56:25.812Z
+status: up
+code: 404
+responseTime: 240
+lastUpdated: 2025-12-05T09:29:41.387Z
 startTime: 2024-07-18T19:30:10.517Z
 generator: Upptime <https://github.com/upptime/upptime>
