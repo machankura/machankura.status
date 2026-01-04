@@ -1,7 +1,7 @@
 url: $NODE_Y
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2026-01-03T23:12:35.792Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-04T07:55:07.313Z
 startTime: 2024-08-21T19:50:47.974Z
 generator: Upptime <https://github.com/upptime/upptime>
