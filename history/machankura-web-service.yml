@@ -1,7 +1,7 @@
 url: $MACHANKURA_WEB_SERVICE_HTTP_ENDPOINT
 status: up
 code: 200
-responseTime: 1803
-lastUpdated: 2026-01-28T23:19:01.834Z
+responseTime: 1665
+lastUpdated: 2026-01-29T23:18:17.931Z
 startTime: 2024-07-18T19:30:11.045Z
 generator: Upptime <https://github.com/upptime/upptime>
