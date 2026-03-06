@@ -1,7 +1,7 @@
 url: $MACHANKURA_USSD_SERVICE_HTTP_ENDPOINT
 status: up
 code: 404
-responseTime: 883
-lastUpdated: 2026-03-05T23:44:35.851Z
+responseTime: 752
+lastUpdated: 2026-03-06T23:19:56.142Z
 startTime: 2024-07-18T19:30:09.403Z
 generator: Upptime <https://github.com/upptime/upptime>
