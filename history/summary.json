@@ -90,9 +90,9 @@
     "url": "$NODE_Y",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lightning-node-y",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -102,6 +102,7 @@
     "timeMonth": 243,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2026-04-24": 0,
       "2026-01-04": 39,
       "2025-12-30": 75,
       "2025-11-04": 71
