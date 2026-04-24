@@ -49,16 +49,13 @@ status-website:
     - title: Machankura
       href: https://machankura.com
 
-  user-agent: ceboMakeleni
+  user-agent: kngako
 
   theme: ocean
   favicon: https://8333.mobi/static/img/logo.svg
   faviconSvg: https://8333.mobi/static/img/logo.svg
 
   assignees:
-  - ceboMakeleni
   - kngako
-  - raymond98
-  - satstacker21
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
